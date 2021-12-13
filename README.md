@@ -28,7 +28,7 @@ Also interested in:
 
 - 📫 How to reach me **mallickarghadeep1@gmail.com**
 
-- 📄 Know about my experiences [https://arghadeep.tech/resume.html](https://arghadeep.tech/resume.html)
+- 📄 Know about my experiences in [Resume](https://www.canva.com/design/DAEudQQLyt0/CthlN-HCB6N95EYIAqiGeA/view?utm_content=DAEudQQLyt0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **I am very friendly nature.**
 
