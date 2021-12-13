@@ -20,11 +20,11 @@ Also interested in:
 
 - 🔭 I’m currently working on [REPL Exam Portal](https://repl-us.web.app)
 
-- 🌱 I’m currently learning **Appolo Client**
+- 🌱 I’m currently learning **Dynamic Programming**
 
 - 👨‍💻 All of my projects are available at [https://arghadeep.tech](https://arghadeep.tech)
 
-- 💬 Ask me about **React.JS, Next.JS, Node.JS, Cpp**
+- 💬 Ask me about **React.JS, Next.JS, Node.JS, C++,Java**
 
 - 📫 How to reach me **mallickarghadeep1@gmail.com**
 
