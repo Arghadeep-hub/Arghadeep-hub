@@ -2,7 +2,7 @@
 <h3 align="start">
 I am pursuing a B.Tech degree in Computer Science and Engineering from MAKAUT, W.B. I'm a web and software developer and computer programmer with an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking on challenges and love being part of the solution.
 
-Hands-on experience in Analysis, Development, and Implementation. Solid Programming expertise in Python, C, JavaScript, NordJS, MongoDB, ReactJS, ExpressJS, Enthusiastic team player, a fast learner with creative problem-solving skills, good coding, and communication skills.
+Hands-on experience in Analysis, Development, and Implementation. Solid Programming expertise in Python, C, JavaScript, NodeJS, MongoDB, ReactJS, ExpressJS, Enthusiastic team player, a fast learner with creative problem-solving skills, good coding, and communication skills.
 
 Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
 
