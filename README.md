@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CRM Project](https://elstar.themenate.net/app/sales/dashboard)
 
-- 🌱 I’m currently learning **TypeScript and React Native**
+- 🌱 I’m currently learning **Nest.JS**
 
 - 🤝 I’m looking for help with **AWS**
 
