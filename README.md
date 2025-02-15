@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghadeep-hub" alt="arghadeep-hub" /></a> </p>
 
-- 🔭 I’m currently working on [prediQt.](https://www.prediqt.it/)
+- 🔭 I’m currently working on [prediQt](https://www.prediqt.it/)
 
-- 🌱 I’m currently learning **Nest.JS**
+- 🌱 I’m currently learning **Time Management**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://www.arghadeep.in/](https://www.arghadeep.in/)
 
-- 💬 Ask me about **Front-end tools and Technology**
+- 💬 Ask me about **JavaScript, TypeScript, Python tools, and Technology**
 
 - 📫 How to reach me **mallickarghadeep1@gmail.com**
 
