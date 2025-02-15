@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arghadeep</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadeep-hub&label=Profile%20views&color=0e75b6&style=flat" alt="arghadeep-hub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghadeep-hub" alt="arghadeep-hub" /></a> </p>
 
-- 🔭 I’m currently working on [CRM Project](https://elstar.themenate.net/app/sales/dashboard)
+- 🔭 I’m currently working on [prediQt.](https://www.prediqt.it/)
 
 - 🌱 I’m currently learning **Nest.JS**
 
