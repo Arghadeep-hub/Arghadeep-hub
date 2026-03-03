@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghadeep-hub" alt="arghadeep-hub" /></a> </p>
 
-- 🔭 I’m currently working on [prediQt](https://www.prediqt.it/)
+- 🔭 I’m currently working on [Appypie](https://www.appypie.com)
 
 - 🌱 I’m currently learning **Time Management**
 
