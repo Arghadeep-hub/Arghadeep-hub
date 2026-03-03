@@ -120,7 +120,7 @@ Built a Bolt.new-style AI system:
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/arghadeep-hub/arghadeep-hub/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/arghadeep-hub/arghadeep-hub/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
